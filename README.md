@@ -6,3 +6,6 @@
 
 ### RAM8 Gate Output
 ![image](https://github.com/user-attachments/assets/4869a4f7-7e60-4cd5-8489-b35fd322f641)
+
+### RAM64 Gate Output
+![image](https://github.com/user-attachments/assets/1b81d929-4516-41a4-98a9-af1741616e2f)
