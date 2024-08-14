@@ -19,3 +19,6 @@
 
 ### RAM16K Output
 ![image](https://github.com/user-attachments/assets/5eed7364-a38b-4ff2-8c63-f8357159358d)
+
+### Program Counter Output
+![image](https://github.com/user-attachments/assets/bce85bbf-02d6-49cd-a919-cb0175f66dfb)
