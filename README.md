@@ -16,3 +16,6 @@
 
 ### RAM4K Output
 ![image](https://github.com/user-attachments/assets/97285565-a740-4699-93d7-b76ebb580f28)
+
+### RAM16K Output
+![image](https://github.com/user-attachments/assets/5eed7364-a38b-4ff2-8c63-f8357159358d)
