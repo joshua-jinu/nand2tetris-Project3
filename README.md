@@ -9,3 +9,7 @@
 
 ### RAM64 Gate Output
 ![image](https://github.com/user-attachments/assets/1b81d929-4516-41a4-98a9-af1741616e2f)
+
+
+### RAM512 Gate Output
+![image](https://github.com/user-attachments/assets/a81540d5-3873-4e19-a4c3-3314d0b75572)
